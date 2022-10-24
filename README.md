@@ -1,3 +1,17 @@
-# PythonExercices
+# PythonExercises
 
-Solving the problemes and exercices from HackerRank site. 
+## Hello! 👋
+
+I'm Bogdan, a junior python developer based in Iasi, RO!
+
+You might want to have look at my exercises and problems that I'm solving
+from HackerRank site. 
+
+---
+
+#### Here is what I've been doing on my repo:
+
+- 10 ten exercises by day
+- resolving them first on the hakerrank site and then implement them on my pycharm
+- push them on my repo 
+    
