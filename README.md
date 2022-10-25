@@ -11,7 +11,7 @@ from HackerRank site.
 
 #### Here is what I've been doing on my repo:
 
-- 10 ten exercises by day
-- resolving them first on the hakerrank site and then implement them on my pycharm
+- 10 ten exercises per day
+- resolving them first on the hakerrank site and then implement the concept on my pycharm
 - push them on my repo 
     
