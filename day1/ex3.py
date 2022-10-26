@@ -6,6 +6,7 @@ Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
 - 12:00:00PM on a 12-hour clock is 12:00:00 on a 24-hour clock.
 
 '''
+import os
 
 
 def timeConversion(s):
@@ -26,7 +27,7 @@ if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     s = input()
-    print("print that")
+
 
     result = timeConversion(s)
 
